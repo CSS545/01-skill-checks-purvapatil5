@@ -1,0 +1,10 @@
+<resources>
+<string name="app_name">State_Management</string>
+
+<string name="name">Name</string>
+
+<string name="hint_firstname">First Name</string>
+
+<string name="hint_lastname">Last Name</string>
+
+</resources>
